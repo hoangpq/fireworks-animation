@@ -10,6 +10,7 @@ public class fwframe extends JFrame{
 		setResizable(false);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLayout(new BorderLayout());
+		// get content
 		getContentPane().add(new fwpanel(width, height), BorderLayout.CENTER);
 	}
 	public static void main(String args[]) {
