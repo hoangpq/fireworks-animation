@@ -1,1 +1,1 @@
-# java_firework
+Fireworks animation in Java
