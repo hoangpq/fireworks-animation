@@ -1,5 +1,5 @@
 # Fireworks
-An fireworks animation written by Java
+An fireworks animation written in pure Java
 
 # Technical
   * Java
